@@ -10,8 +10,8 @@ if(empty($_GET['ln'])) {$pageLang='en';}
   <head>
     <meta charset="utf-8">
     
-    <title></title>
-
+    <title>NaVi</title>
+<link rel="icon" href="img/favicon.ico" type="image/x-icon">
     
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css">
     <!-- Bootstrap core CSS -->
