@@ -1,0 +1,77 @@
+"id","code","value","listOrder"
+"1","en","English","1"
+"2","ru","Русский","2"
+"id","code","value","link","listOrder","lang"
+"1","menu1","Home","#home","1","en"
+"2","menu1","Главная","#home","1","ru"
+"3","menu2","Services","#services","2","en"
+"4","menu2","Сервисы","#services","2","ru"
+"5","menu5","Footer","#footer","5","en"
+"6","menu5","В самый низ","#footer","5","ru"
+"id","code","title","lead","fullText","listOrder","photo","lang"
+"1","service1","NaVi","Ukrainian multi-gaming esports organization. Currently has squads for Dota 2, CS: GO, PUBG (and PUBG Mobile), Fortnite, Apex Legends, Rainbow Six Siege and Quake Champions.","The idea of ​​creating an organization was proposed by the Kazakhstani patron and cybersport organizer Murat Zhumashevich ""Arbalet"" Tulemaganbetov. Sergey ""starix"" Ishchuk reacted to his proposal, who was entrusted with forming a Counter-Strike 1.6 team. Initially, the team was named ""Arbalet.UA"". Alexander ""ZeroGravity"" Kokhanovsky from Kiev became the manager of the new team.On December 17, 2009, a full-fledged esports organization was formed around the CS 1.6 roster, the name for which was invented by Daniil ""Zeus"" Teslenko and John ""Edward"" Sukharev under the influence of visiting the movie ""Avatar"", where the fictional Na'vi race was. Later, a competition was held for the best team name, or rather, for the best decoding of the abbreviation NA’VI, as a result of which the team was named “Natus Vincere” (from the Latin “born to win”).","1","<img style=""height:200px;"" src=""img/navi2.png"">","en"
+"2","service1","NaVi","Украинская мультигейминговая киберспортивная организация. В настоящее время имеет подразделения (составы) по Dota 2, CS:GO, PUBG (и PUBG Mobile), Fortnite, Apex Legends, Rainbow Six Siege и Quake Champions.","Идея создания организации была предложена казахстанским меценатом и киберспортивным организатором Муратом Жумашевичем «Арбалетом» Тулемаганбетовым. На его предложение отреагировал Сергей «starix» Ищук, которому было поручено сформировать команду по Counter-Strike 1.6. Первоначально команда получила название «Arbalet.UA». Менеджером новой команды стал киевлянин Александр «ZeroGravity» Кохановский. 17 декабря 2009 года вокруг состава по CS 1.6 была сформирована полноценная киберспортивная организация, название для которой придумали Даниил «Zeus» Тесленко и Иоанн «Edward» Сухарев под влиянием посещения фильма «Аватар», где была вымышленная раса На'ви. Позже был проведён конкурс на лучшее название команды, а точнее, на лучшую расшифровку аббревиатуры NA’VI, в результате чего коллектив получил название «Natus Vincere» (от латинского «рожденные побеждать»).","1","<img style=""height:200px;"" src=""img/navi2.png"">","ru"
+"id","code","value"
+"4","map","<div><iframe src=""https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25699.10281289092!2d-9.076356089211083!3d70.82729537966247!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4f45a92dbac64da5%3A0xee88db370a5fba3f!2z0KjQsNGD0YDQvNCwICLQr9C9LdCc0LDQudC10L0i!5e1!3m2!1sru!2see!4v1606904254989!5m2!1sru!2see"" width=""600"" height=""450"" frameborder=""0"" style=""border:0; width:400px; height:300px;"" allowfullscreen="""" aria-hidden=""false"" tabindex=""0""></iframe></div>"
+"5","home1","<img src=""img/navi1.png"">"
+"6","logo","<img height=""80px;"" src=""img/logo.png"">"
+"7","navi3","<img src=""img/navi3.png"">"
+"id","code","value","lang"
+"1","term1","Services","en"
+"2","term1","Сервисы","ru"
+"3","button1","Показать","ru"
+"4","button1","Show","en"
+"5","backtotop","Back to top","en"
+"6","backtotop","Наверх","ru"
+"7","form_name","First name","en"
+"8","form_name","Имя","ru"
+"9","form_surname","Last name","en"
+"10","form_surname","Фамилия","ru"
+"11","form_city","City","en"
+"12","form_city","Город","ru"
+"13","form_state","State","en"
+"14","form_state","Регион","ru"
+"15","form_zip","Zip code","en"
+"16","form_zip","Почтовый индекс","ru"
+"17","form","Feedback form","en"
+"18","form","Форма обратной связи","ru"
+"19","choose","Choose","en"
+"20","choose","Выбрать","ru"
+"21","ph_name","placeholder=""Ricardo""","en"
+"22","ph_name","placeholder=""Рикардо""","ru"
+"23","ph_surname","placeholder=""Milos""","en"
+"24","ph_surname","placeholder=""Милос""","ru"
+"25","options","<option> Valgamaa </option>
+<option> Viljandimaa </option>
+<option> Võrumaa </option>
+<option> Ida-Virumaa </option>
+<option> Jõgevamaa </option>
+<option> Lääne-Virumaa </option>
+<option> Läänemaa </option>
+<option> Põlvamaa </option>
+<option> Pärnumaa </option>
+<option> Raplamaa </option>
+<option> Saaremaa </option>
+<option> Tartumaa </option>
+<option> Harjumaa </option>
+<option> Hiiumaa </option>
+<option> Järvamaa </option>","en"
+"26","options","<option>Валгамаа</option>
+<option>Вильяндимаа</option>
+<option>Вырумаа</option>
+<option>Ида-Вирумаа</option>
+<option>Йыгевамаа</option>
+<option>Ляэне-Вирумаа</option>
+<option>Ляэнемаа</option>
+<option>Пылвамаа</option>
+<option>Пярнумаа</option>
+<option>Рапламаа</option>
+<option>Сааремаа</option>
+<option>Тартумаа</option>
+<option>Харьумаа</option>
+<option>Хийумаа</option>
+<option>Ярвамаа</option>","ru"
+"27","agree","Agree to terms and conditions","en"
+"28","agree","Согласен с условиями","ru"
+"29","submit","Submit","en"
+"30","submit","Принять","ru"
