@@ -15,7 +15,7 @@ if(empty($_GET['ln'])) {$pageLang='en';}
     
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css">
     <!-- Bootstrap core CSS -->
-<link href="../assets/dist/css/bootstrap.css" rel="stylesheet">
+
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"></script>
     <style>
@@ -35,7 +35,7 @@ if(empty($_GET['ln'])) {$pageLang='en';}
       }
     </style>
     <!-- Custom styles for this template -->
-    <link href="album.css" rel="stylesheet">
+    
   </head>
   <body class="container">
     <header>
@@ -58,5 +58,5 @@ if(empty($_GET['ln'])) {$pageLang='en';}
   <?php include "modules/footer.php";  ?>
 </footer>
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-      <script>window.jQuery || document.write('<script src="../assets/js/vendor/jquery.slim.min.js"><\/script>')</script><script src="../assets/dist/js/bootstrap.bundle.js"></script></body>
+      
 </html>

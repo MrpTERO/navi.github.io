@@ -1,2 +1,7 @@
-RemoveHandler .html .htm
-AddType application/x-httpd-php .php .htm .html .phtml
+<IfModule mod_mime.c>
+AddType application/x-httpd-php .php
+AddType application/x-httpd-php .htm
+AddType application/x-httpd-php .html
+AddType application/x-httpd-php .tpl
+</IfModule>
+
